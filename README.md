@@ -9,3 +9,5 @@ docker ps -a
 docker rm <nome_container ou id_container>
 
 docker exec -it <nome_container ou id_container> bash
+
+docker build -t <nome_imagem> <caminho_dockerfile>
