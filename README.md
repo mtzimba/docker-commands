@@ -1,4 +1,4 @@
-# Comandos do Curso de Docker: Criando containers sem dor de cabeça (Alura)  
+# Comandos do Curso de *Docker: Criando containers sem dor de cabeça (Alura)*  
 
 ## Introdução ao Docker
 docker version - exibe a versão do docker.  
